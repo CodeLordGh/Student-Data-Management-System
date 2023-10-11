@@ -1,7 +1,9 @@
 {
   "name": "Student-Data-Management-System",
   "runtime": "node/v18",
-  "retion": "US",
-  "envs": [],
+  "region": "US",
+  "envs": [
+    "ACCESS_TOKEN"
+  ],
   "typescript": false
 }
